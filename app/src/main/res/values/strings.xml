@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Software_Engineering</string>
+    <string name="title_activity_student__check">Student_Check</string>
+    <string name="title_activity_pro__check">Pro_Check</string>
+    <string name="title_activity_nfc__attendance">NFC_Attendance</string>
+    <string name="title_activity_main__ui_pro">Main_UI_pro</string>
+</resources>
